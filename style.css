@@ -1,0 +1,24 @@
+#gameContainer {
+    text-align: center;
+}
+
+#gameBoard {
+    border: 3px solid green;
+}
+
+#score {
+    font-size: 30px;
+    color: blue;
+}
+
+#resetBtn{
+    font-size: 20px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: green;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+
+
+}
